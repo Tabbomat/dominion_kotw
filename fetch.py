@@ -2,6 +2,8 @@ import json
 import re
 
 import psaw
+import requests
+import lxml.html
 
 
 def fetch(all_ids=False):
