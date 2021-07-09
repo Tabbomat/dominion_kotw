@@ -2,7 +2,8 @@ import json
 import re
 from typing import Optional
 
-typos = {'smuggler': 'smugglers', 'night guardian': 'night watchman', 'stewart': 'steward', 'watch tower': 'watchtower', 'candlestick': 'candlestick maker'}
+typos = {'smuggler': 'smugglers', 'night guardian': 'night watchman', 'stewart': 'steward', 'watch tower': 'watchtower', 'candlestick': 'candlestick maker', 'dominion': 'dominate', 'scouting part': 'scouting party',
+         'bath': 'baths'}
 
 
 def parse(ids: list = None):
@@ -16,12 +17,13 @@ def parse(ids: list = None):
             cards_data = json.load(card_file)
     except (FileNotFoundError, json.JSONDecodeError):
         cards_data = {}
-    try:
-        with open('data/kotw.json') as kotw_file:
-            kotw = json.load(kotw_file)
-    except (FileNotFoundError, json.JSONDecodeError):
-        kotw = {}
+    # try:
+    #     with open('data/kotw.json') as kotw_file:
+    #         kotw = json.load(kotw_file)
+    # except (FileNotFoundError, json.JSONDecodeError):
+    #     kotw = {}
     kotw = {}
+    keywords = ('event', 'landmark', 'project', 'colony', 'platinum', 'shelter')
     if not ids:
         ids = raw_data.keys()
     for post_id in ids:
@@ -35,6 +37,8 @@ def parse(ids: list = None):
         if set_string_start > 0:
             title = title[:set_string_start].strip()
         title = re.sub(r'^".*"', '', title)
+        # fix col.
+        title = title.replace('col./plat', 'colony/platinum')
         kingdom = {}
         # Bane
         if match := re.search(r'\s*\(bane: ?([\w\s]+)\)\s*', title):
@@ -43,19 +47,15 @@ def parse(ids: list = None):
         if match := re.search(r'\s*\(([\w\s]+) as bane\)\s*', title):
             kingdom['bane'] = match.group(1)
             title = title.replace(match.group(0), '')
-        events = []
-        landmarks = []
         projects = []
         boons = []
         bane: Optional[str] = None
         way: Optional[str] = None
-        items = list(filter(None, re.split(r'[,.:;]', title)))
+        items = [typos.get(item, item) for i in re.split(r'[,.:;]', title) if (item := i.strip(' \r\n\t\\*'))]
         kingdom_cards = []
         while items:
             # remove spaces
-            item = items.pop(0).strip(' \r\n\t\\*').lower()
-            # fix typos, rather than Levenshtein magic
-            item = typos.get(item, item)
+            item = items.pop(0)
             if not item:
                 continue
             if len(kingdom_cards) < 10:
@@ -74,6 +74,25 @@ def parse(ids: list = None):
                 kingdom['colony_platinum'] = 'no ' not in item
             if 'shelter' in item:
                 kingdom['shelter'] = 'no ' not in item
+            if 'event' in item:
+                kingdom['events'] = []
+                while items and not any(k in items[0] for k in keywords) and not items[0] in ('way',):
+                    event = items.pop(0)
+                    if event in cards_data.keys():
+                        kingdom['events'].append(event)
+                    else:
+                        raise ValueError(f"{post_id =}, {event =}")
+            if 'landmark' in item:
+                kingdom['landmarks'] = []
+                while items and not any(k in items[0] for k in keywords) and not items[0] in ('way',):
+                    event = items.pop(0)
+                    # fix for obelisk (naming throne room)
+                    event = re.sub(r'\s*\([\w\s]+\)\s*', '', event)
+                    if event in cards_data.keys():
+                        kingdom['landmarks'].append(event)
+                    else:
+                        raise ValueError(f"{post_id =}, {event =}")
+
         kingdom['cards'] = kingdom_cards
         kotw[post_id] = kingdom
 

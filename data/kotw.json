@@ -1443,6 +1443,10 @@
       "storyteller",
       "tactician",
       "transmogrify"
+    ],
+    "events": [
+      "alms",
+      "save"
     ]
   },
   "3d3ifi": {
@@ -1472,6 +1476,11 @@
       "masquerade",
       "miser",
       "tunnel"
+    ],
+    "events": [
+      "ball",
+      "bonfire",
+      "mission"
     ]
   },
   "3eqln2": {
@@ -1546,6 +1555,10 @@
       "trade route"
     ],
     "colony_platinum": false,
+    "events": [
+      "raid",
+      "seaway"
+    ],
     "shelter": true
   },
   "3j1tl3": {
@@ -1592,7 +1605,10 @@
       "watchtower",
       "worker's village"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "save"
+    ]
   },
   "3lrt4h": {
     "cards": [
@@ -1622,6 +1638,9 @@
       "port",
       "treasure trove",
       "wharf"
+    ],
+    "events": [
+      "scouting party"
     ],
     "shelter": false
   },
@@ -1668,6 +1687,9 @@
       "young witch"
     ],
     "colony_platinum": false,
+    "events": [
+      "summon"
+    ],
     "shelter": false
   },
   "3q917o": {
@@ -1714,6 +1736,10 @@
       "ratcatcher",
       "urchin"
     ],
+    "events": [
+      "quest",
+      "ferry"
+    ],
     "shelter": false
   },
   "3sz99t": {
@@ -1759,6 +1785,10 @@
       "treasure trove",
       "urchin"
     ],
+    "events": [
+      "scouting party",
+      "trade"
+    ],
     "shelter": false
   },
   "3vvw9g": {
@@ -1773,6 +1803,10 @@
       "page",
       "salvager",
       "tunnel"
+    ],
+    "events": [
+      "alms",
+      "save"
     ],
     "shelter": false
   },
@@ -1849,7 +1883,11 @@
       "quarry",
       "upgrade"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "pilgrimage",
+      "travelling fair"
+    ]
   },
   "41i8u4": {
     "cards": [
@@ -1878,7 +1916,11 @@
       "tunnel",
       "vineyard"
     ],
-    "colony_platinum": true
+    "colony_platinum": true,
+    "events": [
+      "ferry",
+      "pathfinding"
+    ]
   },
   "43myoj": {
     "cards": [
@@ -1968,6 +2010,9 @@
       "throne room",
       "urchin"
     ],
+    "events": [
+      "scouting party"
+    ],
     "shelter": true
   },
   "4ac0xg": {
@@ -1982,6 +2027,10 @@
       "messenger",
       "sea hag",
       "tactician"
+    ],
+    "events": [
+      "borrow",
+      "mission"
     ]
   },
   "4bb6h5": {
@@ -2043,6 +2092,10 @@
       "swindler",
       "transmogrify"
     ],
+    "events": [
+      "bonfire",
+      "travelling fair"
+    ],
     "shelter": false
   },
   "4farob": {
@@ -2059,6 +2112,10 @@
       "swamp hag"
     ],
     "colony_platinum": false,
+    "events": [
+      "lost arts",
+      "travelling fair"
+    ],
     "shelter": false
   },
   "4gbtl4": {
@@ -2073,6 +2130,10 @@
       "urchin",
       "watchtower",
       "young witch"
+    ],
+    "events": [
+      "alms",
+      "scouting party"
     ],
     "shelter": false
   },
@@ -2121,6 +2182,7 @@
       "talisman"
     ],
     "colony_platinum": false,
+    "events": [],
     "shelter": true
   },
   "4kmi2q": {
@@ -2135,7 +2197,8 @@
       "outpost",
       "swamp hag",
       "tactician"
-    ]
+    ],
+    "events": []
   },
   "4lnvui": {
     "cards": [
@@ -2149,6 +2212,9 @@
       "steward",
       "stonemason",
       "taxman"
+    ],
+    "events": [
+      "plan"
     ]
   },
   "4mrkda": {
@@ -2165,6 +2231,9 @@
       "young witch"
     ],
     "colony_platinum": false,
+    "events": [
+      "plan"
+    ],
     "shelter": false
   },
   "4nsv0i": {
@@ -2181,6 +2250,10 @@
       "vagrant"
     ],
     "colony_platinum": false,
+    "events": [
+      "lost arts",
+      "pathfinding"
+    ],
     "shelter": false
   },
   "4oxhhy": {
@@ -2195,6 +2268,10 @@
       "rogue",
       "soothsayer",
       "vineyard"
+    ],
+    "events": [
+      "mission",
+      "scouting party"
     ],
     "shelter": false
   },
@@ -2228,6 +2305,7 @@
       "worker's village"
     ],
     "colony_platinum": true,
+    "events": [],
     "shelter": false
   },
   "4s9a1f": {
@@ -2244,6 +2322,12 @@
       "walled village"
     ],
     "colony_platinum": false,
+    "events": [
+      "tax"
+    ],
+    "landmarks": [
+      "mountain pass"
+    ],
     "shelter": false
   },
   "4tdxwk": {
@@ -2258,6 +2342,10 @@
       "stonemason",
       "treasure map",
       "treasure trove"
+    ],
+    "events": [
+      "pathfinding",
+      "travelling fair"
     ],
     "shelter": false
   },
@@ -2274,7 +2362,11 @@
       "ranger",
       "storyteller"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "pilgrimage",
+      "seaway"
+    ]
   },
   "4vlgzc": {
     "cards": [
@@ -2290,6 +2382,10 @@
       "urchin"
     ],
     "colony_platinum": false,
+    "events": [
+      "ferry",
+      "scouting party"
+    ],
     "shelter": false
   },
   "4wokyb": {
@@ -2304,6 +2400,10 @@
       "steward",
       "tactician",
       "tribute"
+    ],
+    "events": [
+      "mission",
+      "travelling fair"
     ],
     "shelter": false
   },
@@ -2367,6 +2467,9 @@
       "warehouse",
       "wharf"
     ],
+    "events": [
+      "ferry"
+    ],
     "shelter": true
   },
   "52cppv": {
@@ -2382,7 +2485,10 @@
       "plaza",
       "scheme"
     ],
-    "colony_platinum": true
+    "colony_platinum": true,
+    "landmarks": [
+      "museum"
+    ]
   },
   "53g0tw": {
     "cards": [
@@ -2412,6 +2518,9 @@
       "ratcatcher",
       "stash",
       "tunnel"
+    ],
+    "events": [
+      "ball"
     ]
   },
   "55mape": {
@@ -2426,6 +2535,13 @@
       "pirate ship",
       "steward",
       "treasure map"
+    ],
+    "events": [
+      "delve",
+      "travelling fair"
+    ],
+    "landmarks": [
+      "palace"
     ]
   },
   "56qrmb": {
@@ -2442,6 +2558,12 @@
       "swamp hag"
     ],
     "colony_platinum": false,
+    "events": [
+      "save"
+    ],
+    "landmarks": [
+      "wall"
+    ],
     "shelter": true
   },
   "57vpz3": {
@@ -2488,6 +2610,10 @@
       "stonemason",
       "transmogrify"
     ],
+    "events": [
+      "ritual",
+      "tax"
+    ],
     "shelter": false
   },
   "5bl165": {
@@ -2502,6 +2628,9 @@
       "steward",
       "tunnel",
       "wandering minstrel"
+    ],
+    "events": [
+      "travelling fair"
     ],
     "shelter": true
   },
@@ -2534,6 +2663,9 @@
       "watchtower"
     ],
     "colony_platinum": false,
+    "landmarks": [
+      "bandit fort"
+    ],
     "shelter": false
   },
   "5fane8": {
@@ -2550,6 +2682,9 @@
       "throne room"
     ],
     "colony_platinum": false,
+    "events": [
+      "borrow"
+    ],
     "shelter": true
   },
   "5gk2sd": {
@@ -2564,6 +2699,9 @@
       "mill",
       "nobles",
       "patrol"
+    ],
+    "events": [
+      "dominate"
     ]
   },
   "5huz70": {
@@ -2593,6 +2731,12 @@
       "sauna",
       "secret passage",
       "sentry"
+    ],
+    "events": [
+      "annex"
+    ],
+    "landmarks": [
+      "basilica"
     ]
   },
   "5kcqyf": {
@@ -2609,6 +2753,10 @@
       "watchtower"
     ],
     "colony_platinum": false,
+    "events": [
+      "expedition",
+      "mission"
+    ],
     "shelter": false
   },
   "5ljo0h": {
@@ -2640,6 +2788,10 @@
       "swindler",
       "urchin"
     ],
+    "events": [
+      "delve",
+      "expedition"
+    ],
     "shelter": false
   },
   "5og4d7": {
@@ -2655,7 +2807,11 @@
       "trade route",
       "tunnel"
     ],
-    "colony_platinum": true
+    "colony_platinum": true,
+    "events": [
+      "expedition",
+      "keep"
+    ]
   },
   "5pmy3l": {
     "cards": [
@@ -2669,6 +2825,9 @@
       "tournament",
       "transmogrify",
       "treasure trove"
+    ],
+    "events": [
+      "quest"
     ],
     "shelter": false
   },
@@ -2700,6 +2859,11 @@
       "upgrade",
       "wishing well"
     ],
+    "events": [
+      "colonnade",
+      "delve"
+    ],
+    "landmarks": [],
     "shelter": false
   },
   "5ts2k8": {
@@ -2714,6 +2878,10 @@
       "sacrifice",
       "tactician",
       "tournament"
+    ],
+    "events": [
+      "lost arts",
+      "ritual"
     ],
     "shelter": true
   },
@@ -2789,6 +2957,12 @@
       "swamp hag",
       "transmogrify",
       "villa"
+    ],
+    "events": [
+      "plan"
+    ],
+    "landmarks": [
+      "tomb"
     ]
   },
   "61qthw": {
@@ -2803,6 +2977,12 @@
       "swindler",
       "trading post",
       "treasure trove"
+    ],
+    "events": [
+      "raid"
+    ],
+    "landmarks": [
+      "keep"
     ]
   },
   "635cp4": {
@@ -2817,6 +2997,9 @@
       "sea hag",
       "settlers",
       "trader"
+    ],
+    "events": [
+      "triumph"
     ]
   },
   "64ij9x": {
@@ -2831,6 +3014,12 @@
       "golem",
       "herbalist",
       "legionary"
+    ],
+    "events": [
+      "windfall"
+    ],
+    "landmarks": [
+      "defiled shrine"
     ]
   },
   "65tmey": {
@@ -2845,6 +3034,10 @@
       "poor house",
       "settlers",
       "stonemason"
+    ],
+    "events": [
+      "delve",
+      "save"
     ],
     "shelter": false
   },
@@ -2861,7 +3054,13 @@
       "patrol",
       "wishing well"
     ],
-    "colony_platinum": true
+    "colony_platinum": true,
+    "events": [
+      "wedding"
+    ],
+    "landmarks": [
+      "baths"
+    ]
   },
   "68khaw": {
     "cards": [
@@ -2877,6 +3076,12 @@
       "worker's village"
     ],
     "colony_platinum": false,
+    "events": [
+      "scouting party"
+    ],
+    "landmarks": [
+      "bandit fort"
+    ],
     "shelter": true
   },
   "69woxk": {
@@ -2907,7 +3112,11 @@
       "throne room",
       "vassal"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "advance",
+      "summon"
+    ]
   },
   "6clk0h": {
     "cards": [
@@ -2939,6 +3148,12 @@
       "villa"
     ],
     "colony_platinum": true,
+    "events": [
+      "banquet"
+    ],
+    "landmarks": [
+      "palace"
+    ],
     "shelter": false
   },
   "6faiy1": {
@@ -2971,6 +3186,12 @@
       "young witch"
     ],
     "colony_platinum": false,
+    "events": [
+      "annex"
+    ],
+    "landmarks": [
+      "battlefield"
+    ],
     "shelter": true
   },
   "6i4415": {
@@ -2985,6 +3206,12 @@
       "overlord",
       "relic",
       "vineyard"
+    ],
+    "events": [
+      "windfall"
+    ],
+    "landmarks": [
+      "baths"
     ]
   },
   "6jixqh": {
@@ -3000,7 +3227,13 @@
       "lost city",
       "temple"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "tax"
+    ],
+    "landmarks": [
+      "keep"
+    ]
   },
   "6kxhog": {
     "cards": [
@@ -3030,6 +3263,12 @@
       "rats"
     ],
     "colony_platinum": true,
+    "events": [
+      "advance"
+    ],
+    "landmarks": [
+      "tomb"
+    ],
     "shelter": true
   },
   "6nq55j": {
@@ -3044,6 +3283,10 @@
       "secret passage",
       "treasure trove",
       "wishing well"
+    ],
+    "events": [
+      "borrow",
+      "pilgrimage"
     ]
   },
   "6p6fos": {
@@ -3059,6 +3302,10 @@
       "remake",
       "settlers",
       "young witch"
+    ],
+    "events": [
+      "dominate",
+      "ritual"
     ]
   },
   "6qm2p8": {
@@ -3073,6 +3320,10 @@
       "scavenger",
       "scrying pool",
       "university"
+    ],
+    "events": [
+      "bonfire",
+      "windfall"
     ],
     "shelter": false
   },
@@ -3105,6 +3356,10 @@
       "swamp hag"
     ],
     "colony_platinum": true,
+    "events": [
+      "lost arts",
+      "save"
+    ],
     "shelter": false
   },
   "6v171j": {
@@ -3121,6 +3376,10 @@
       "settlers"
     ],
     "colony_platinum": false,
+    "landmarks": [
+      "bandit fort",
+      "tower"
+    ],
     "shelter": true
   },
   "6whd0r": {
@@ -3135,6 +3394,9 @@
       "tournament",
       "urchin",
       "wild hunt"
+    ],
+    "events": [
+      "salt the earth"
     ],
     "shelter": false
   },
@@ -3152,6 +3414,10 @@
       "transmogrify"
     ],
     "colony_platinum": true,
+    "events": [
+      "ritual",
+      "triumph"
+    ],
     "shelter": false
   },
   "6zderb": {
@@ -3166,6 +3432,9 @@
       "merchant guild",
       "plaza",
       "relic"
+    ],
+    "events": [
+      "summon"
     ]
   },
   "70sgww": {
@@ -3225,7 +3494,13 @@
       "villa",
       "wild hunt"
     ],
-    "colony_platinum": true
+    "colony_platinum": true,
+    "events": [
+      "donate"
+    ],
+    "landmarks": [
+      "wolf den"
+    ]
   },
   "76ujuf": {
     "cards": [
@@ -3240,7 +3515,11 @@
       "walled village",
       "wine merchant"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "expedition",
+      "inheritance"
+    ]
   },
   "785d3s": {
     "cards": [
@@ -3286,6 +3565,12 @@
       "page",
       "sacrifice"
     ],
+    "events": [
+      "training"
+    ],
+    "landmarks": [
+      "aqueduct"
+    ],
     "shelter": true
   },
   "7cljii": {
@@ -3301,7 +3586,11 @@
       "storyteller",
       "talisman"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "bonfire",
+      "pilgrimage"
+    ]
   },
   "7e6yy4": {
     "cards": [
@@ -3317,6 +3606,12 @@
       "sage"
     ],
     "colony_platinum": true,
+    "events": [
+      "dominate"
+    ],
+    "landmarks": [
+      "fountain"
+    ],
     "shelter": false
   },
   "7ft4pn": {
@@ -3331,6 +3626,10 @@
       "outpost",
       "swamp hag",
       "tactician"
+    ],
+    "landmarks": [
+      "arena",
+      "triumphal arch"
     ]
   },
   "7hfyco": {
@@ -3361,6 +3660,12 @@
       "trade route"
     ],
     "colony_platinum": true,
+    "events": [
+      "tax"
+    ],
+    "landmarks": [
+      "tower"
+    ],
     "shelter": true
   },
   "7kjtmu": {
@@ -3375,6 +3680,9 @@
       "storeroom",
       "wild hunt",
       "wishing well"
+    ],
+    "landmarks": [
+      "labyrinth"
     ],
     "shelter": false
   },
@@ -3391,7 +3699,10 @@
       "venture",
       "worker's village"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "save"
+    ]
   },
   "7ne07z": {
     "cards": [
@@ -3405,6 +3716,9 @@
       "soothsayer",
       "stonemason",
       "swindler"
+    ],
+    "events": [
+      "plan"
     ]
   },
   "7ozdun": {
@@ -3420,7 +3734,13 @@
       "mint",
       "raider"
     ],
-    "colony_platinum": true
+    "colony_platinum": true,
+    "events": [
+      "pilgrimage"
+    ],
+    "landmarks": [
+      "colonnade"
+    ]
   },
   "7qidon": {
     "cards": [
@@ -3436,6 +3756,13 @@
       "secret passage"
     ],
     "colony_platinum": false,
+    "events": [
+      "delve"
+    ],
+    "landmarks": [
+      "tomb",
+      "wolf den"
+    ],
     "shelter": false
   },
   "7s3vej": {
@@ -3467,7 +3794,13 @@
       "stonemason",
       "swindler"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "scouting party"
+    ],
+    "landmarks": [
+      "basilica"
+    ]
   },
   "7vc9a6": {
     "cards": [
@@ -3499,6 +3832,12 @@
       "young witch"
     ],
     "colony_platinum": false,
+    "events": [
+      "inheritance"
+    ],
+    "landmarks": [
+      "bandit fort"
+    ],
     "shelter": false
   },
   "7ykibg": {
@@ -3529,6 +3868,10 @@
       "silk road",
       "squire"
     ],
+    "events": [
+      "advance",
+      "triumph"
+    ],
     "shelter": false
   },
   "82355d": {
@@ -3543,6 +3886,9 @@
       "mandarin",
       "trader",
       "wandering minstrel"
+    ],
+    "events": [
+      "donate"
     ],
     "shelter": true
   },
@@ -3560,6 +3906,9 @@
       "watchtower"
     ],
     "colony_platinum": false,
+    "events": [
+      "mission"
+    ],
     "shelter": false
   },
   "85gys8": {
@@ -3575,7 +3924,10 @@
       "venture",
       "wine merchant"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "triumph"
+    ]
   },
   "876tet": {
     "cards": [
@@ -3590,7 +3942,13 @@
       "pixie",
       "watchtower"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "expedition"
+    ],
+    "landmarks": [
+      "defiled shrine"
+    ]
   },
   "88xdl4": {
     "cards": [
@@ -3619,6 +3977,9 @@
       "tactician",
       "tracker"
     ],
+    "landmarks": [
+      "orchard"
+    ],
     "shelter": true
   },
   "8ckizz": {
@@ -3633,6 +3994,9 @@
       "ratcatcher",
       "tunnel",
       "urchin"
+    ],
+    "events": [
+      "delve"
     ]
   },
   "8e9d5w": {
@@ -3678,6 +4042,9 @@
       "swamp hag",
       "vagrant"
     ],
+    "events": [
+      "salt the earth"
+    ],
     "shelter": false
   },
   "8j9sk0": {
@@ -3694,6 +4061,7 @@
       "vagrant"
     ],
     "colony_platinum": false,
+    "events": [],
     "shelter": true
   },
   "8kxi4j": {
@@ -3709,7 +4077,10 @@
       "necromancer",
       "stonemason"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "expedition"
+    ]
   },
   "8mo3ab": {
     "cards": [
@@ -3724,7 +4095,10 @@
       "necromancer",
       "raider"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "salt the earth"
+    ]
   },
   "8oeuo6": {
     "cards": [
@@ -3740,6 +4114,10 @@
       "vampire"
     ],
     "colony_platinum": true,
+    "events": [
+      "inheritance",
+      "triumph"
+    ],
     "shelter": false
   },
   "8q1aes": {
@@ -3754,6 +4132,10 @@
       "spice merchant",
       "steward",
       "upgrade"
+    ],
+    "events": [
+      "ball",
+      "plan"
     ]
   },
   "8rrdob": {
@@ -3770,6 +4152,9 @@
       "talisman"
     ],
     "colony_platinum": false,
+    "events": [
+      "wedding"
+    ],
     "shelter": false
   },
   "8tteho": {
@@ -3785,7 +4170,10 @@
       "peasant",
       "rabble"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "bonfire"
+    ]
   },
   "8vel6j": {
     "cards": [
@@ -3800,7 +4188,10 @@
       "scheme",
       "steward"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "wolf den"
+    ]
   },
   "8x7ul1": {
     "cards": [
@@ -3815,7 +4206,9 @@
       "trade route",
       "village"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [],
+    "landmarks": []
   },
   "8z8d52": {
     "cards": [
@@ -3829,6 +4222,12 @@
       "pirate ship",
       "trader",
       "tragic hero"
+    ],
+    "events": [
+      "advance"
+    ],
+    "landmarks": [
+      "colonnade"
     ],
     "shelter": false
   },
@@ -3846,6 +4245,10 @@
       "villa"
     ],
     "colony_platinum": false,
+    "events": [
+      "borrow",
+      "dominate"
+    ],
     "shelter": false
   },
   "92y0dy": {
@@ -3860,6 +4263,12 @@
       "treasure trove",
       "vampire",
       "villa"
+    ],
+    "events": [
+      "banquet"
+    ],
+    "landmarks": [
+      "mountain pass"
     ]
   },
   "94yokk": {
@@ -3876,6 +4285,9 @@
       "werewolf"
     ],
     "colony_platinum": false,
+    "landmarks": [
+      "obelisk"
+    ],
     "shelter": true
   },
   "96tybd": {
@@ -3905,6 +4317,9 @@
       "monastery",
       "steward",
       "trader"
+    ],
+    "events": [
+      "ferry"
     ]
   },
   "9am6z9": {
@@ -3920,7 +4335,13 @@
       "tragic hero",
       "venture"
     ],
-    "colony_platinum": true
+    "colony_platinum": true,
+    "events": [
+      "windfall"
+    ],
+    "landmarks": [
+      "keep"
+    ]
   },
   "9ciilx": {
     "cards": [
@@ -3936,6 +4357,10 @@
       "stonemason"
     ],
     "colony_platinum": false,
+    "events": [
+      "ferry",
+      "travelling fair"
+    ],
     "shelter": false
   },
   "9ej93v": {
@@ -3951,7 +4376,10 @@
       "venture",
       "worker's village"
     ],
-    "colony_platinum": true
+    "colony_platinum": true,
+    "events": [
+      "lost arts"
+    ]
   },
   "9ghtrz": {
     "cards": [
@@ -3980,7 +4408,8 @@
       "raze",
       "scavenger",
       "wharf"
-    ]
+    ],
+    "events": []
   },
   "9kd0wn": {
     "cards": [
@@ -4009,6 +4438,12 @@
       "secret cave",
       "silk road",
       "university"
+    ],
+    "events": [
+      "conquest"
+    ],
+    "landmarks": [
+      "fountain"
     ]
   },
   "9o8jyx": {
@@ -4023,6 +4458,12 @@
       "legionary",
       "monastery",
       "sacred grove"
+    ],
+    "events": [
+      "wedding"
+    ],
+    "landmarks": [
+      "triumphal arch"
     ]
   },
   "9qaa6t": {
@@ -4039,6 +4480,12 @@
       "upgrade"
     ],
     "colony_platinum": false,
+    "events": [
+      "tax"
+    ],
+    "landmarks": [
+      "obelisk"
+    ],
     "shelter": false
   },
   "9s9voh": {
@@ -4054,6 +4501,10 @@
       "treasury",
       "vassal"
     ],
+    "events": [
+      "borrow",
+      "pathfinding"
+    ],
     "shelter": true
   },
   "9uasbr": {
@@ -4068,6 +4519,9 @@
       "silk road",
       "trader",
       "vampire"
+    ],
+    "events": [
+      "ball"
     ]
   },
   "9wbgoc": {
@@ -4115,7 +4569,11 @@
       "wild hunt",
       "worker's village"
     ],
-    "colony_platinum": true
+    "colony_platinum": true,
+    "events": [
+      "dominate",
+      "triumph"
+    ]
   },
   "a2lwpt": {
     "cards": [
@@ -4131,6 +4589,12 @@
       "soothsayer"
     ],
     "colony_platinum": false,
+    "events": [
+      "plan"
+    ],
+    "landmarks": [
+      "wall"
+    ],
     "shelter": false
   },
   "a4sqqu": {
@@ -4177,6 +4641,9 @@
       "monument"
     ],
     "colony_platinum": false,
+    "landmarks": [
+      "tower"
+    ],
     "shelter": false
   },
   "a91p1y": {
@@ -4193,6 +4660,9 @@
       "monument"
     ],
     "colony_platinum": false,
+    "landmarks": [
+      "tower"
+    ],
     "shelter": false
   },
   "aaz6tc": {
@@ -4224,6 +4694,12 @@
       "pirate ship",
       "prince"
     ],
+    "events": [
+      "advance"
+    ],
+    "landmarks": [
+      "orchard"
+    ],
     "shelter": true
   },
   "afspxz": {
@@ -4254,6 +4730,12 @@
       "storyteller",
       "tragic hero",
       "university"
+    ],
+    "events": [
+      "mission"
+    ],
+    "landmarks": [
+      "mountain pass"
     ]
   },
   "akl0fq": {
@@ -4284,6 +4766,12 @@
       "plaza",
       "royal carriage",
       "tunnel"
+    ],
+    "events": [
+      "dominate"
+    ],
+    "landmarks": [
+      "defiled shrine"
     ],
     "shelter": false
   },
@@ -4329,6 +4817,9 @@
       "recruiter",
       "royal blacksmith",
       "treasurer"
+    ],
+    "landmarks": [
+      "aqueduct"
     ]
   },
   "ax33i6": {
@@ -4344,7 +4835,13 @@
       "storyteller",
       "tunnel"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "lost arts"
+    ],
+    "landmarks": [
+      "aqueduct"
+    ]
   },
   "azp32t": {
     "cards": [
@@ -4360,6 +4857,9 @@
       "treasure map"
     ],
     "colony_platinum": false,
+    "events": [
+      "seaway"
+    ],
     "shelter": true
   },
   "b2flf6": {
@@ -4390,6 +4890,9 @@
       "tragic hero"
     ],
     "colony_platinum": false,
+    "landmarks": [
+      "keep"
+    ],
     "shelter": false
   },
   "b7veux": {
@@ -4465,6 +4968,9 @@
       "vineyard"
     ],
     "colony_platinum": false,
+    "landmarks": [
+      "arena"
+    ],
     "shelter": true
   },
   "bl8flz": {
@@ -4480,6 +4986,10 @@
       "throne room",
       "warehouse"
     ],
+    "events": [
+      "lost arts",
+      "pilgrimage"
+    ],
     "shelter": false
   },
   "bnyl1u": {
@@ -4494,6 +5004,9 @@
       "sacrifice",
       "squire",
       "villa"
+    ],
+    "events": [
+      "triumph"
     ],
     "shelter": false
   },
@@ -4511,6 +5024,12 @@
       "pillage"
     ],
     "colony_platinum": true,
+    "events": [
+      "tax"
+    ],
+    "landmarks": [
+      "mountain pass"
+    ],
     "shelter": false
   },
   "bthfny": {
@@ -4525,6 +5044,10 @@
       "secret cave",
       "stables",
       "tactician"
+    ],
+    "events": [
+      "plan",
+      "quest"
     ]
   },
   "bw6t7l": {
@@ -4540,6 +5063,10 @@
       "swindler",
       "wild hunt",
       "young witch"
+    ],
+    "events": [
+      "salt the earth",
+      "travelling fair"
     ]
   },
   "byu03d": {
@@ -4555,7 +5082,13 @@
       "tunnel",
       "watchtower"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "delve"
+    ],
+    "landmarks": [
+      "mountain pass"
+    ]
   },
   "c1k7fy": {
     "cards": [
@@ -4583,6 +5116,9 @@
       "patron",
       "port",
       "treasure trove"
+    ],
+    "events": [
+      "quest"
     ]
   },
   "c7oh77": {
@@ -4597,6 +5133,10 @@
       "rogue",
       "silk road",
       "temple"
+    ],
+    "events": [
+      "ferry",
+      "pathfinding"
     ],
     "shelter": false
   },
@@ -4628,7 +5168,13 @@
       "tactician",
       "trade route"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "lost arts"
+    ],
+    "landmarks": [
+      "arena"
+    ]
   },
   "cg8797": {
     "cards": [
@@ -4717,7 +5263,13 @@
       "steward",
       "wild hunt"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "triumph"
+    ],
+    "landmarks": [
+      "battlefield"
+    ]
   },
   "cyir0u": {
     "cards": [
@@ -4747,6 +5299,9 @@
       "sea hag",
       "settlers"
     ],
+    "landmarks": [
+      "labyrinth"
+    ],
     "shelter": false
   },
   "d4ucs3": {
@@ -4763,6 +5318,10 @@
       "treasurer"
     ],
     "colony_platinum": false,
+    "landmarks": [
+      "keep",
+      "tomb"
+    ],
     "shelter": false
   },
   "d81fd8": {
@@ -4791,6 +5350,9 @@
       "seer",
       "skulk",
       "tunnel"
+    ],
+    "events": [
+      "windfall"
     ]
   },
   "deegqe": {
@@ -4849,6 +5411,9 @@
       "torturer",
       "wandering minstrel"
     ],
+    "events": [
+      "ferry"
+    ],
     "shelter": false
   },
   "drcllm": {
@@ -4864,7 +5429,10 @@
       "villa",
       "watchtower"
     ],
-    "colony_platinum": true
+    "colony_platinum": true,
+    "events": [
+      "ritual"
+    ]
   },
   "duo5l8": {
     "cards": [
@@ -4894,7 +5462,11 @@
       "watchtower",
       "worker's village"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "alms",
+      "save"
+    ]
   },
   "e1avt8": {
     "cards": [
@@ -4908,6 +5480,10 @@
       "page",
       "sage",
       "secret passage"
+    ],
+    "events": [
+      "banquet",
+      "bonfire"
     ],
     "shelter": false
   },
@@ -4925,6 +5501,10 @@
       "watchtower"
     ],
     "colony_platinum": true,
+    "events": [
+      "dominate",
+      "donate"
+    ],
     "shelter": false
   },
   "e86c2o": {
@@ -4941,6 +5521,9 @@
       "urchin"
     ],
     "colony_platinum": false,
+    "events": [
+      "seaway"
+    ],
     "shelter": false
   },
   "ebaf15": {
@@ -4970,6 +5553,10 @@
       "sacred grove",
       "soothsayer",
       "vault"
+    ],
+    "landmarks": [
+      "bandit fort",
+      "basilica"
     ]
   },
   "ehhhyc": {
@@ -4984,6 +5571,9 @@
       "rats",
       "scavenger",
       "smugglers"
+    ],
+    "landmarks": [
+      "tower"
     ],
     "shelter": false
   },
@@ -5001,6 +5591,9 @@
       "temple"
     ],
     "colony_platinum": true,
+    "events": [
+      "travelling fair"
+    ],
     "shelter": false
   },
   "eo0x4c": {
@@ -5015,6 +5608,10 @@
       "merchant ship",
       "messenger",
       "salvager"
+    ],
+    "events": [
+      "pathfinding",
+      "plan"
     ]
   },
   "er8r8v": {
@@ -5029,6 +5626,10 @@
       "raider",
       "sacrifice",
       "vampire"
+    ],
+    "events": [
+      "ritual",
+      "triumph"
     ]
   },
   "euindf": {
@@ -5045,6 +5646,9 @@
       "tactician"
     ],
     "colony_platinum": true,
+    "events": [
+      "mission"
+    ],
     "shelter": false
   },
   "ey27o8": {
@@ -5075,6 +5679,13 @@
       "university",
       "vineyard"
     ],
+    "events": [
+      "triumph"
+    ],
+    "landmarks": [
+      "bandit fort",
+      "tomb"
+    ],
     "shelter": false
   },
   "f52xgx": {
@@ -5091,6 +5702,10 @@
       "venture"
     ],
     "colony_platinum": true,
+    "events": [
+      "ferry",
+      "lost arts"
+    ],
     "shelter": false
   },
   "f8lwym": {
@@ -5108,6 +5723,12 @@
       "young witch"
     ],
     "colony_platinum": false,
+    "events": [
+      "summon"
+    ],
+    "landmarks": [
+      "tomb"
+    ],
     "shelter": false
   },
   "fc83ek": {
@@ -5122,6 +5743,10 @@
       "royal carriage",
       "transmogrify",
       "wishing well"
+    ],
+    "events": [
+      "ball",
+      "wedding"
     ]
   },
   "ffpq4y": {
@@ -5136,6 +5761,10 @@
       "priest",
       "ratcatcher",
       "rats"
+    ],
+    "events": [
+      "inheritance",
+      "save"
     ],
     "shelter": false
   },
@@ -5153,6 +5782,12 @@
       "taxman"
     ],
     "colony_platinum": false,
+    "events": [
+      "dominate"
+    ],
+    "landmarks": [
+      "bandit fort"
+    ],
     "shelter": false
   },
   "fmy937": {
@@ -5169,6 +5804,9 @@
       "spice merchant"
     ],
     "colony_platinum": true,
+    "events": [
+      "expedition"
+    ],
     "shelter": false
   },
   "frk6fj": {
@@ -5183,6 +5821,13 @@
       "scrying pool",
       "university",
       "vineyard"
+    ],
+    "events": [
+      "triumph"
+    ],
+    "landmarks": [
+      "bandit fort",
+      "tomb"
     ],
     "shelter": false
   },
@@ -5199,6 +5844,9 @@
       "rebuild",
       "sacrifice"
     ],
+    "events": [
+      "salt the earth"
+    ],
     "shelter": true
   },
   "g0cg7g": {
@@ -5214,7 +5862,13 @@
       "tragic hero",
       "worker's village"
     ],
-    "colony_platinum": true
+    "colony_platinum": true,
+    "events": [
+      "triumph"
+    ],
+    "landmarks": [
+      "arena"
+    ]
   },
   "g4niim": {
     "cards": [
@@ -5245,6 +5899,9 @@
       "wine merchant"
     ],
     "colony_platinum": false,
+    "events": [
+      "expedition"
+    ],
     "shelter": false
   },
   "gd4pur": {
@@ -5261,6 +5918,9 @@
       "villa"
     ],
     "colony_platinum": false,
+    "events": [
+      "banquet"
+    ],
     "shelter": false
   },
   "ghh9h1": {
@@ -5275,6 +5935,12 @@
       "sacrifice",
       "upgrade",
       "wandering minstrel"
+    ],
+    "events": [
+      "annex"
+    ],
+    "landmarks": [
+      "labyrinth"
     ],
     "shelter": true
   },
@@ -5306,7 +5972,10 @@
       "vampire",
       "village green"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "transport"
+    ]
   },
   "guf5td": {
     "cards": [
@@ -5320,6 +5989,9 @@
       "rogue",
       "sentry",
       "squire"
+    ],
+    "events": [
+      "invest"
     ],
     "shelter": true
   },
@@ -5351,7 +6023,10 @@
       "quarry",
       "supplies"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "banish"
+    ]
   },
   "hdn7po": {
     "cards": [
@@ -5380,6 +6055,9 @@
       "merchant guild",
       "paddock",
       "stonemason"
+    ],
+    "events": [
+      "seize the day"
     ]
   },
   "hlzco0": {
@@ -5394,6 +6072,9 @@
       "ranger",
       "raze",
       "storyteller"
+    ],
+    "events": [
+      "mission"
     ]
   },
   "hqa28l": {
@@ -5409,6 +6090,9 @@
       "menagerie",
       "remake",
       "young witch"
+    ],
+    "events": [
+      "populate"
     ]
   },
   "hufa3y": {
@@ -5439,6 +6123,9 @@
       "villa",
       "wayfarer"
     ],
+    "landmarks": [
+      "battlefield"
+    ],
     "shelter": false
   },
   "i2rpkb": {
@@ -5454,7 +6141,10 @@
       "secret passage",
       "watchtower"
     ],
-    "colony_platinum": true
+    "colony_platinum": true,
+    "events": [
+      "commerce"
+    ]
   },
   "i6yaur": {
     "cards": [
@@ -5469,7 +6159,13 @@
       "venture",
       "watchtower"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "conquest"
+    ],
+    "landmarks": [
+      "mountain pass"
+    ]
   },
   "ib8iy3": {
     "cards": [
@@ -5485,6 +6181,9 @@
       "squire"
     ],
     "colony_platinum": false,
+    "landmarks": [
+      "tomb"
+    ],
     "shelter": false
   },
   "ifjfkr": {
@@ -5501,6 +6200,9 @@
       "tragic hero"
     ],
     "colony_platinum": true,
+    "events": [
+      "toil"
+    ],
     "shelter": false
   },
   "ijqhz8": {
@@ -5516,6 +6218,10 @@
       "outpost",
       "sea hag"
     ],
+    "events": [
+      "quest",
+      "inheritance"
+    ],
     "shelter": false
   },
   "io3a01": {
@@ -5530,6 +6236,9 @@
       "tunnel",
       "vassal",
       "witch"
+    ],
+    "events": [
+      "banquet"
     ]
   },
   "isf2td": {
@@ -5545,7 +6254,11 @@
       "swamp hag",
       "tactician"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "lost arts",
+      "ritual"
+    ]
   },
   "iwulcb": {
     "cards": [
@@ -5576,6 +6289,9 @@
       "worker's village"
     ],
     "colony_platinum": false,
+    "events": [
+      "seaway"
+    ],
     "shelter": false
   },
   "j5eo7p": {
@@ -5606,6 +6322,9 @@
       "trade route"
     ],
     "colony_platinum": false,
+    "events": [
+      "inheritance"
+    ],
     "shelter": false
   },
   "jdwi4t": {
@@ -5620,6 +6339,10 @@
       "treasury",
       "village green",
       "warehouse"
+    ],
+    "events": [
+      "desperation",
+      "wedding"
     ]
   },
   "ji8zyd": {
@@ -5649,7 +6372,10 @@
       "kiln",
       "snowy village"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "salt the earth"
+    ]
   },
   "jqsqe3": {
     "cards": [
@@ -5663,6 +6389,12 @@
       "research",
       "spice merchant",
       "storeroom"
+    ],
+    "events": [
+      "advance"
+    ],
+    "landmarks": [
+      "battlefield"
     ]
   },
   "jv199z": {
@@ -5677,6 +6409,9 @@
       "salvager",
       "treasure trove",
       "vassal"
+    ],
+    "events": [
+      "toil"
     ]
   },
   "jzcr9z": {
@@ -5691,6 +6426,9 @@
       "mystic",
       "settlers",
       "trader"
+    ],
+    "events": [
+      "banquet"
     ],
     "shelter": false
   },
@@ -5721,6 +6459,9 @@
       "skulk",
       "wandering minstrel"
     ],
+    "landmarks": [
+      "tower"
+    ],
     "shelter": false
   },
   "kcu8m6": {
@@ -5738,6 +6479,9 @@
       "young witch"
     ],
     "colony_platinum": false,
+    "events": [
+      "pursue"
+    ],
     "shelter": false
   },
   "khbsmr": {
@@ -5768,6 +6512,10 @@
       "wine merchant"
     ],
     "colony_platinum": false,
+    "events": [
+      "bonfire",
+      "seize the day"
+    ],
     "shelter": false
   },
   "kq3skx": {
@@ -5796,6 +6544,9 @@
       "replace",
       "snowy village",
       "throne room"
+    ],
+    "events": [
+      "ferry"
     ]
   },
   "kzqppx": {
@@ -5811,7 +6562,10 @@
       "trade route",
       "venture"
     ],
-    "colony_platinum": true
+    "colony_platinum": true,
+    "events": [
+      "invest"
+    ]
   },
   "l4hela": {
     "cards": [
@@ -5825,6 +6579,12 @@
       "remake",
       "shepherd",
       "tunnel"
+    ],
+    "events": [
+      "triumph"
+    ],
+    "landmarks": [
+      "keep"
     ]
   },
   "l9vo00": {
@@ -5839,6 +6599,10 @@
       "royal carriage",
       "sea hag",
       "stonemason"
+    ],
+    "events": [
+      "mission",
+      "seaway"
     ]
   },
   "lk7c7a": {
@@ -5853,6 +6617,9 @@
       "shepherd",
       "silk road",
       "storyteller"
+    ],
+    "events": [
+      "stampede"
     ]
   },
   "lphjjd": {
@@ -5867,6 +6634,12 @@
       "nomad camp",
       "swindler",
       "upgrade"
+    ],
+    "events": [
+      "advance"
+    ],
+    "landmarks": [
+      "bandit fort"
     ]
   },
   "m5drvd": {
@@ -5897,6 +6670,9 @@
       "tunnel",
       "vassal"
     ],
+    "events": [
+      "demand"
+    ],
     "shelter": true
   },
   "mke8mx": {
@@ -5911,6 +6687,9 @@
       "scholar",
       "spice merchant",
       "supplies"
+    ],
+    "events": [
+      "desperation"
     ]
   },
   "mttrl1": {
@@ -5940,6 +6719,9 @@
       "secret passage",
       "snowy village",
       "treasure map"
+    ],
+    "events": [
+      "march"
     ]
   },
   "n3phds": {
@@ -5970,6 +6752,10 @@
       "vineyard",
       "wild hunt"
     ],
+    "events": [
+      "advance",
+      "annex"
+    ],
     "shelter": true
   },
   "ne7oyd": {
@@ -5999,7 +6785,11 @@
       "vault",
       "wayfarer"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "events": [
+      "invest",
+      "toil"
+    ]
   },
   "novrbd": {
     "cards": [
@@ -6013,6 +6803,11 @@
       "mountebank",
       "remodel",
       "watchtower"
+    ],
+    "colony_platinum": false,
+    "events": [
+      "banquet",
+      "triumph"
     ]
   },
   "nu4ag4": {
@@ -6027,6 +6822,12 @@
       "silk road",
       "tactician",
       "villa"
+    ],
+    "events": [
+      "salt the earth"
+    ],
+    "landmarks": [
+      "baths"
     ]
   },
   "nzgr8p": {
@@ -6041,6 +6842,10 @@
       "recruiter",
       "squire",
       "watchtower"
+    ],
+    "colony_platinum": false,
+    "events": [
+      "march"
     ],
     "shelter": false
   },
