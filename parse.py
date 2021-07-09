@@ -48,14 +48,12 @@ def parse(ids: list = None):
         projects = []
         boons = []
         bane: Optional[str] = None
-        colony_platinum = False
-        shelter = False
         way: Optional[str] = None
-        items = filter(None, re.split(r'[,.:;]', title))
+        items = list(filter(None, re.split(r'[,.:;]', title)))
         kingdom_cards = []
-        for item in items:
+        while items:
             # remove spaces
-            item = item.strip(' \r\n\t\\*').lower()
+            item = items.pop(0).strip(' \r\n\t\\*').lower()
             # fix typos, rather than Levenshtein magic
             item = typos.get(item, item)
             if not item:
@@ -70,11 +68,17 @@ def parse(ids: list = None):
                     kingdom_cards.append(item)
                 else:
                     raise ValueError(f"{post_id =}, {item =}")
+                continue
+            # at this point, we have events, landmarks, ...
+            if 'colony' in item or 'platin' in item:
+                kingdom['colony_platinum'] = 'no ' not in item
+            if 'shelter' in item:
+                kingdom['shelter'] = 'no ' not in item
         kingdom['cards'] = kingdom_cards
         kotw[post_id] = kingdom
 
     with open('data/kotw.json', 'w') as kotw_file:
-        json.dump(kotw, kotw_file, indent=2)
+        json.dump(kotw, kotw_file, indent=2, sort_keys=True)
 
 
 if __name__ == '__main__':
