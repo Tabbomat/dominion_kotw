@@ -1645,6 +1645,7 @@
     "shelter": false
   },
   "3nliv1": {
+    "bane": "shanty town",
     "cards": [
       "bishop",
       "duke",
@@ -1674,6 +1675,7 @@
     ]
   },
   "3pbgla": {
+    "bane": "cellar",
     "cards": [
       "feodum",
       "golem",
@@ -1686,7 +1688,7 @@
       "stonemason",
       "young witch"
     ],
-    "colony_platinum": false,
+    "colony_platinum": true,
     "events": [
       "summon"
     ],
@@ -2119,6 +2121,7 @@
     "shelter": false
   },
   "4gbtl4": {
+    "bane": "courtyard",
     "cards": [
       "caravan",
       "coin of the realm",
@@ -2182,7 +2185,6 @@
       "talisman"
     ],
     "colony_platinum": false,
-    "events": [],
     "shelter": true
   },
   "4kmi2q": {
@@ -2197,8 +2199,7 @@
       "outpost",
       "swamp hag",
       "tactician"
-    ],
-    "events": []
+    ]
   },
   "4lnvui": {
     "cards": [
@@ -2218,6 +2219,7 @@
     ]
   },
   "4mrkda": {
+    "bane": "pawn",
     "cards": [
       "familiar",
       "fool's gold",
@@ -2305,7 +2307,6 @@
       "worker's village"
     ],
     "colony_platinum": true,
-    "events": [],
     "shelter": false
   },
   "4s9a1f": {
@@ -2809,7 +2810,9 @@
     ],
     "colony_platinum": true,
     "events": [
-      "expedition",
+      "expedition"
+    ],
+    "landmarks": [
       "keep"
     ]
   },
@@ -2860,10 +2863,11 @@
       "wishing well"
     ],
     "events": [
-      "colonnade",
       "delve"
     ],
-    "landmarks": [],
+    "landmarks": [
+      "colonnade"
+    ],
     "shelter": false
   },
   "5ts2k8": {
@@ -4000,6 +4004,11 @@
     ]
   },
   "8e9d5w": {
+    "boons": [
+      "the field's gift",
+      "the river's gift",
+      "the sun's gift"
+    ],
     "cards": [
       "charm",
       "druid",
@@ -4061,7 +4070,6 @@
       "vagrant"
     ],
     "colony_platinum": false,
-    "events": [],
     "shelter": true
   },
   "8kxi4j": {
@@ -4189,7 +4197,8 @@
       "steward"
     ],
     "colony_platinum": false,
-    "events": [
+    "events": [],
+    "landmarks": [
       "wolf den"
     ]
   },
@@ -4206,9 +4215,7 @@
       "trade route",
       "village"
     ],
-    "colony_platinum": false,
-    "events": [],
-    "landmarks": []
+    "colony_platinum": false
   },
   "8z8d52": {
     "cards": [
@@ -4408,8 +4415,7 @@
       "raze",
       "scavenger",
       "wharf"
-    ],
-    "events": []
+    ]
   },
   "9kd0wn": {
     "cards": [
@@ -4716,6 +4722,15 @@
       "walled village"
     ],
     "colony_platinum": false,
+    "events": [
+      "salt the earth"
+    ],
+    "landmarks": [
+      "wall"
+    ],
+    "projects": [
+      "sinister plot"
+    ],
     "shelter": false
   },
   "aidgui": {
@@ -4752,6 +4767,9 @@
       "throne room"
     ],
     "colony_platinum": false,
+    "projects": [
+      "sewers"
+    ],
     "shelter": true
   },
   "amy7zy": {
@@ -4788,7 +4806,11 @@
       "venture",
       "villain"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "projects": [
+      "capitalism",
+      "exploration"
+    ]
   },
   "artssp": {
     "cards": [
@@ -4820,6 +4842,9 @@
     ],
     "landmarks": [
       "aqueduct"
+    ],
+    "projects": [
+      "star chart"
     ]
   },
   "ax33i6": {
@@ -4874,6 +4899,10 @@
       "silk merchant",
       "spices",
       "stonemason"
+    ],
+    "projects": [
+      "barracks",
+      "canal"
     ]
   },
   "b575gw": {
@@ -4893,6 +4922,9 @@
     "landmarks": [
       "keep"
     ],
+    "projects": [
+      "fleet"
+    ],
     "shelter": false
   },
   "b7veux": {
@@ -4907,6 +4939,10 @@
       "scholar",
       "vampire",
       "villain"
+    ],
+    "projects": [
+      "cathedral",
+      "sinister plot"
     ]
   },
   "baoi2g": {
@@ -4921,6 +4957,10 @@
       "sacrifice",
       "sculptor",
       "werewolf"
+    ],
+    "projects": [
+      "capitalism",
+      "sewers"
     ]
   },
   "bdc2k0": {
@@ -4937,6 +4977,10 @@
       "urchin"
     ],
     "colony_platinum": true,
+    "projects": [
+      "citadel",
+      "exploration"
+    ],
     "shelter": false
   },
   "bfy1vf": {
@@ -4951,6 +4995,10 @@
       "steward",
       "swamp hag",
       "swindler"
+    ],
+    "projects": [
+      "sewers",
+      "star chart"
     ],
     "shelter": true
   },
@@ -5119,6 +5167,9 @@
     ],
     "events": [
       "quest"
+    ],
+    "projects": [
+      "guildhall"
     ]
   },
   "c7oh77": {
@@ -5153,7 +5204,10 @@
       "taxman",
       "worker's village"
     ],
-    "colony_platinum": true
+    "colony_platinum": true,
+    "projects": [
+      "fair"
+    ]
   },
   "cdd4pf": {
     "cards": [
@@ -5232,6 +5286,9 @@
       "throne room",
       "upgrade",
       "villain"
+    ],
+    "projects": [
+      "sewers"
     ]
   },
   "csc1as": {
@@ -5302,6 +5359,9 @@
     "landmarks": [
       "labyrinth"
     ],
+    "projects": [
+      "sewers"
+    ],
     "shelter": false
   },
   "d4ucs3": {
@@ -5353,6 +5413,9 @@
     ],
     "events": [
       "windfall"
+    ],
+    "projects": [
+      "road network"
     ]
   },
   "deegqe": {
@@ -5396,6 +5459,10 @@
       "silk merchant",
       "steward",
       "throne room"
+    ],
+    "projects": [
+      "capitalism",
+      "crop rotation"
     ]
   },
   "do4gmi": {
@@ -5432,6 +5499,9 @@
     "colony_platinum": true,
     "events": [
       "ritual"
+    ],
+    "projects": [
+      "fleet"
     ]
   },
   "duo5l8": {
@@ -5524,6 +5594,9 @@
     "events": [
       "seaway"
     ],
+    "projects": [
+      "guildhall"
+    ],
     "shelter": false
   },
   "ebaf15": {
@@ -5575,6 +5648,9 @@
     "landmarks": [
       "tower"
     ],
+    "projects": [
+      "piazza"
+    ],
     "shelter": false
   },
   "ekmx06": {
@@ -5593,6 +5669,9 @@
     "colony_platinum": true,
     "events": [
       "travelling fair"
+    ],
+    "projects": [
+      "guildhall"
     ],
     "shelter": false
   },
@@ -5648,6 +5727,9 @@
     "colony_platinum": true,
     "events": [
       "mission"
+    ],
+    "projects": [
+      "innovation"
     ],
     "shelter": false
   },
@@ -5728,6 +5810,9 @@
     ],
     "landmarks": [
       "tomb"
+    ],
+    "projects": [
+      "capitalism"
     ],
     "shelter": false
   },
@@ -5847,6 +5932,9 @@
     "events": [
       "salt the earth"
     ],
+    "projects": [
+      "road network"
+    ],
     "shelter": true
   },
   "g0cg7g": {
@@ -5883,6 +5971,10 @@
       "silk merchant",
       "swashbuckler"
     ],
+    "projects": [
+      "fleet",
+      "road network"
+    ],
     "shelter": true
   },
   "g8utq0": {
@@ -5902,6 +5994,9 @@
     "events": [
       "expedition"
     ],
+    "projects": [
+      "capitalism"
+    ],
     "shelter": false
   },
   "gd4pur": {
@@ -5920,6 +6015,9 @@
     "colony_platinum": false,
     "events": [
       "banquet"
+    ],
+    "projects": [
+      "silos"
     ],
     "shelter": false
   },
@@ -5957,6 +6055,10 @@
       "scholar",
       "tunnel"
     ],
+    "projects": [
+      "academy",
+      "canal"
+    ],
     "shelter": true
   },
   "gq6d5t": {
@@ -5975,6 +6077,9 @@
     "colony_platinum": false,
     "events": [
       "transport"
+    ],
+    "ways": [
+      "way of the butterfly"
     ]
   },
   "guf5td": {
@@ -5993,7 +6098,10 @@
     "events": [
       "invest"
     ],
-    "shelter": true
+    "shelter": true,
+    "ways": [
+      "way of the mole"
+    ]
   },
   "gywe57": {
     "cards": [
@@ -6026,6 +6134,9 @@
     "colony_platinum": false,
     "events": [
       "banish"
+    ],
+    "ways": [
+      "way of the camel"
     ]
   },
   "hdn7po": {
@@ -6058,6 +6169,9 @@
     ],
     "events": [
       "seize the day"
+    ],
+    "ways": [
+      "way of the frog"
     ]
   },
   "hlzco0": {
@@ -6093,6 +6207,9 @@
     ],
     "events": [
       "populate"
+    ],
+    "ways": [
+      "way of the chameleon"
     ]
   },
   "hufa3y": {
@@ -6126,7 +6243,10 @@
     "landmarks": [
       "battlefield"
     ],
-    "shelter": false
+    "shelter": false,
+    "ways": [
+      "way of the seal"
+    ]
   },
   "i2rpkb": {
     "cards": [
@@ -6144,6 +6264,9 @@
     "colony_platinum": true,
     "events": [
       "commerce"
+    ],
+    "ways": [
+      "way of the ox"
     ]
   },
   "i6yaur": {
@@ -6184,7 +6307,10 @@
     "landmarks": [
       "tomb"
     ],
-    "shelter": false
+    "shelter": false,
+    "ways": [
+      "way of the rat"
+    ]
   },
   "ifjfkr": {
     "cards": [
@@ -6203,7 +6329,10 @@
     "events": [
       "toil"
     ],
-    "shelter": false
+    "shelter": false,
+    "ways": [
+      "way of the horse"
+    ]
   },
   "ijqhz8": {
     "cards": [
@@ -6273,7 +6402,10 @@
       "silk road",
       "storyteller"
     ],
-    "shelter": false
+    "shelter": false,
+    "ways": [
+      "way of the monkey"
+    ]
   },
   "j17ezb": {
     "cards": [
@@ -6325,6 +6457,9 @@
     "events": [
       "inheritance"
     ],
+    "projects": [
+      "fair"
+    ],
     "shelter": false
   },
   "jdwi4t": {
@@ -6357,6 +6492,9 @@
       "transmogrify",
       "vampire",
       "witch"
+    ],
+    "projects": [
+      "sinister plot"
     ]
   },
   "jmj1xv": {
@@ -6375,6 +6513,9 @@
     "colony_platinum": false,
     "events": [
       "salt the earth"
+    ],
+    "ways": [
+      "way of the worm"
     ]
   },
   "jqsqe3": {
@@ -6430,6 +6571,9 @@
     "events": [
       "banquet"
     ],
+    "projects": [
+      "silos"
+    ],
     "shelter": false
   },
   "k3sa7a": {
@@ -6444,6 +6588,12 @@
       "hostelry",
       "scepter",
       "treasurer"
+    ],
+    "projects": [
+      "guildhall"
+    ],
+    "ways": [
+      "way of the camel"
     ]
   },
   "k8d9by": {
@@ -6482,7 +6632,10 @@
     "events": [
       "pursue"
     ],
-    "shelter": false
+    "shelter": false,
+    "ways": [
+      "way of the mole"
+    ]
   },
   "khbsmr": {
     "cards": [
@@ -6496,6 +6649,12 @@
       "relic",
       "salvager",
       "silk merchant"
+    ],
+    "projects": [
+      "guildhall"
+    ],
+    "ways": [
+      "way of the rat"
     ]
   },
   "klm0ai": {
@@ -6530,6 +6689,9 @@
       "recruiter",
       "stonemason",
       "wharf"
+    ],
+    "projects": [
+      "academy"
     ]
   },
   "kux2xq": {
@@ -6547,6 +6709,9 @@
     ],
     "events": [
       "ferry"
+    ],
+    "ways": [
+      "way of the chameleon"
     ]
   },
   "kzqppx": {
@@ -6565,6 +6730,9 @@
     "colony_platinum": true,
     "events": [
       "invest"
+    ],
+    "projects": [
+      "guildhall"
     ]
   },
   "l4hela": {
@@ -6620,6 +6788,9 @@
     ],
     "events": [
       "stampede"
+    ],
+    "ways": [
+      "way of the monkey"
     ]
   },
   "lphjjd": {
@@ -6673,6 +6844,9 @@
     "events": [
       "demand"
     ],
+    "projects": [
+      "canal"
+    ],
     "shelter": true
   },
   "mke8mx": {
@@ -6690,6 +6864,9 @@
     ],
     "events": [
       "desperation"
+    ],
+    "projects": [
+      "city gate"
     ]
   },
   "mttrl1": {
@@ -6722,6 +6899,9 @@
     ],
     "events": [
       "march"
+    ],
+    "ways": [
+      "way of the monkey"
     ]
   },
   "n3phds": {
@@ -6737,7 +6917,10 @@
       "spice merchant",
       "vault"
     ],
-    "colony_platinum": false
+    "colony_platinum": false,
+    "projects": [
+      "city gate"
+    ]
   },
   "n8wp2l": {
     "cards": [
@@ -6770,6 +6953,12 @@
       "swashbuckler",
       "village green",
       "wishing well"
+    ],
+    "projects": [
+      "pageant"
+    ],
+    "ways": [
+      "way of the goat"
     ]
   },
   "njqjto": {
@@ -6863,6 +7052,9 @@
       "remake"
     ],
     "colony_platinum": true,
+    "projects": [
+      "cathedral"
+    ],
     "shelter": false
   }
 }
