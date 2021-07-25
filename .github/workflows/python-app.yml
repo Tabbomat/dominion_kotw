@@ -21,3 +21,9 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: fetch kotw
       run: python main.py
+    # commit changes back to repo
+    - name: Auto committing updated files
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "fetch kotw"
+        file_pattern: data/*.json
