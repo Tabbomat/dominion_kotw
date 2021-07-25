@@ -1,0 +1,23 @@
+name: Fetch and parse KotW
+
+on:
+  schedule:
+    - cron: '0 10 * * 1' # 10 am on mondays.
+    # 82% of kotw were posted before 10 am,  the last time this would have failed was in Jan 2019
+    # if the kotw isn't posted till 10 am, it will be fetched next week along with the new one
+  workflow_dispatch:
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: fetch kotw
+      run: python main.py
