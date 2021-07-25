@@ -2,8 +2,6 @@ import json
 import re
 
 import psaw
-import requests
-import lxml.html
 
 
 def fetch(all_ids=False):
@@ -24,7 +22,7 @@ def fetch(all_ids=False):
         raw_data[post.id] = title
         new_ids.append(post.id)
     with open('data/raw.json', 'w') as raw_file:
-        json.dump(raw_data, raw_file, indent=2)
+        json.dump(raw_data, raw_file, indent=2, sort_keys=True)
     # return ids of new posts
     return list(raw_data.keys()) if all_ids else new_ids
 

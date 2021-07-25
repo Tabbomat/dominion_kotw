@@ -7056,5 +7056,81 @@
       "cathedral"
     ],
     "shelter": false
+  },
+  "o9dind": {
+    "cards": [
+      "bank",
+      "counting house",
+      "enchantress",
+      "farming village",
+      "haunted woods",
+      "horse traders",
+      "jester",
+      "raze",
+      "settlers",
+      "talisman"
+    ],
+    "colony_platinum": false,
+    "events": [
+      "travelling fair"
+    ],
+    "landmarks": [
+      "tower"
+    ]
+  },
+  "oe16xm": {
+    "cards": [
+      "animal fair",
+      "coven",
+      "ironworks",
+      "lurker",
+      "mill",
+      "nobles",
+      "rebuild",
+      "smugglers",
+      "snowy village",
+      "squire"
+    ],
+    "events": [
+      "bargain"
+    ],
+    "shelter": false,
+    "ways": [
+      "way of the sheep"
+    ]
+  },
+  "oiksy8": {
+    "cards": [
+      "ghost ship",
+      "ghost town",
+      "guardian",
+      "mining village",
+      "mint",
+      "native village",
+      "necromancer",
+      "quarry",
+      "replace",
+      "tragic hero"
+    ],
+    "colony_platinum": true
+  },
+  "on7ees": {
+    "cards": [
+      "cemetery",
+      "cobbler",
+      "dungeon",
+      "fortress",
+      "library",
+      "ranger",
+      "raze",
+      "rebuild",
+      "village",
+      "witch"
+    ],
+    "events": [
+      "alms",
+      "pilgrimage"
+    ],
+    "shelter": false
   }
 }

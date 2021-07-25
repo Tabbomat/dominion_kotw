@@ -12,17 +12,18 @@ def parse(ids: list = None):
             raw_data = json.load(raw_file)
     except (FileNotFoundError, json.JSONDecodeError):
         raw_data = {}
+    if not ids:
+        ids = raw_data.keys()
     try:
         with open('data/cards.json') as card_file:
             cards_data = json.load(card_file)
     except (FileNotFoundError, json.JSONDecodeError):
         cards_data = {}
-    # try:
-    #     with open('data/kotw.json') as kotw_file:
-    #         kotw = json.load(kotw_file)
-    # except (FileNotFoundError, json.JSONDecodeError):
-    #     kotw = {}
-    kotw = {}
+    try:
+        with open('data/kotw.json') as kotw_file:
+            kotw = json.load(kotw_file)
+    except (FileNotFoundError, json.JSONDecodeError):
+        kotw = {}
 
     def check_type(card_name: str, type_: str) -> bool:
         card = cards_data.get(card_name)
@@ -30,9 +31,6 @@ def parse(ids: list = None):
             return False
         return type_.capitalize() in card['types']
 
-    keywords = ('event', 'landmark', 'project', 'colony', 'platinum', 'shelter')
-    if not ids:
-        ids = raw_data.keys()
     for post_id in sorted(ids):
         if post_id in kotw.keys():
             continue
