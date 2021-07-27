@@ -7132,5 +7132,19 @@
       "pilgrimage"
     ],
     "shelter": false
+  },
+  "oru1wo": {
+    "cards": [
+      "duchess",
+      "gardens",
+      "harbinger",
+      "inn",
+      "masterpiece",
+      "merchant guild",
+      "oracle",
+      "plaza",
+      "sea hag",
+      "warehouse"
+    ]
   }
 }
