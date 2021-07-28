@@ -1045,7 +1045,7 @@
       "name": "Brigand"
     },
     "German": {
-      "name": "Banditin (Note: explicitly feminine)",
+      "name": "Banditin",
       "text": "Nimm ein Gold vom Vorrat. Jeder Mitspieler deckt die obersten 2 Karten seines Nachziehstapels auf, entsorgt eine aufgedeckte Geldkarte nach seiner Wahl \u2013 au\u00dfer Kupfer \u2013 und legt den Rest ab."
     },
     "Japanese": {
@@ -4400,6 +4400,10 @@
     "Finnish": {
       "name": "Dame Louise"
     },
+    "German": {
+      "name": "Dame Josephine",
+      "text": "Jeder Mitspieler muss die obersten beiden Karten von seinem Nachziehstapel aufdecken, eine davon entsorgen die  bis  kostet und die \u00fcbrigen aufgedeckten Karten ablegen. Wenn dadurch ein Ritter entsorgt wird, entsorge Dame Josephine.2"
+    },
     "Japanese": {
       "name": "\u30c7\u30a4\u30e0 \u30fb \u30b8\u30e7\u30bb\u30d5\u30a3\u30fc\u30cc",
       "text": "\u4ed6\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u5168\u54e1\u3001\u5c71\u672d\u306e\u4e0a\u304b\u30892\u679a\u3092\u516c\u958b\u3057\u3001\u305d\u306e\u4e2d\u306e\u30b3\u30b9\u30c8\u304c\u304b\u3089\u306e\u30ab\u30fc\u30c91\u679a\u3092\u5ec3\u68c4\u3057\u3001\u6b8b\u308a\u3092\u6368\u3066\u672d\u306b\u3059\u308b\u3002\u8ab0\u304b\u304c\u9a0e\u58eb\u3092\u5ec3\u68c4\u3057\u305f\u5834\u5408\u3001\u3042\u306a\u305f\u306f\u3053\u308c\u3092\u5ec3\u68c4\u3059\u308b\u30022\u3002"
@@ -4719,6 +4723,10 @@
       "name": "Antre du p\u00e9ch\u00e9",
       "text": "Au d\u00e9but de votre prochain tour\u00a0: + 2 Cartes. Cette carte est re\u00e7ue en main (et non dans la d\u00e9fausse)."
     },
+    "German": {
+      "name": "S\u00fcndenpfuhl",
+      "text": "Zu Beginn deines n\u00e4chsten Zuges:+ 2 Karten.Diese Karte wird auf die Hand genommen (anstatt auf den Ablagestapel)."
+    },
     "Japanese": {
       "name": "\u60aa\u4eba\u306e\u30a2\u30b8\u30c8",
       "text": "\u3042\u306a\u305f\u306e\u6b21\u306e\u30bf\u30fc\u30f3\u306e\u958b\u59cb\u6642\u306b\u3001+2 \u30ab\u30fc\u30c9\u3092\u5f15\u304f\u3002\u3053\u306e\u30ab\u30fc\u30c9\u306f\u3001\u6368\u3066\u672d\u7f6e\u304d\u5834\u3067\u306f\u306a\u304f\u3001\u624b\u672d\u306b\u7372\u5f97\u3059\u308b\u3002"
@@ -4905,7 +4913,7 @@
       "name": "Diplomate"
     },
     "German": {
-      "name": "Diplomatin (Note: explicitly feminine)",
+      "name": "Diplomatin",
       "text": "+2 KartenHast du nach dem Ziehen 5 oder weniger Handkarten: +2 Aktionen.Wenn ein Mitspieler eine Angriffskarte ausspielt und du mindestens 5 Handkarten hast, darfst du diese Karte aus deiner Hand aufdecken. Wenn du das tust: Ziehe 2 Karten und lege dann 3 Karten ab."
     },
     "Japanese": {
@@ -5676,7 +5684,7 @@
       "name": "Ing\u00e9nieur"
     },
     "German": {
-      "name": "Ingenieurin (Note: explicitly feminine)",
+      "name": "Ingenieurin",
       "text": "Nimm eine Karte, die bis zu  kostet.Du darfst diese Ingenieurin entsorgen.Wenn du das tust:Nimm eine Karte, die bis zu  kostet."
     },
     "Japanese": {
@@ -7121,14 +7129,14 @@
       "name": "Ennustaja"
     },
     "French": {
-      "name": "Diseuse de bonne aventure (Note: explicitly feminine)"
+      "name": "Diseuse de bonne aventure"
     },
     "German": {
-      "name": "Wahrsagerin (Note: explicitly feminine)",
+      "name": "Wahrsagerin",
       "text": "Hellseherin"
     },
     "Italian": {
-      "name": "Indovina (Note: explicitly feminine)"
+      "name": "Indovina"
     },
     "Japanese": {
       "name": "\u5360\u3044\u5e2b",
@@ -7141,7 +7149,7 @@
       "name": "\u0413\u0430\u0434\u0430\u043b\u043a\u0430"
     },
     "Spanish": {
-      "name": "Adivinadora (Note: explicitly feminine)"
+      "name": "Adivinadora"
     },
     "cost": "$3",
     "kingdom": true,
@@ -8105,7 +8113,7 @@
       "text": "Jusqu'\u00e0 votre prochain tour, quand un adversaire joue une carte Attaque, vous n'en subissez pas les effets. Au d\u00e9but de votre prochain tour, +.Cette carte est re\u00e7ue en main (et non dans la d\u00e9fausse)."
     },
     "German": {
-      "name": "W\u00e4chterin (Note: explicitly feminine)",
+      "name": "W\u00e4chterin",
       "text": "Bis zu deinem n\u00e4chsten Zug: Wenn ein anderer Spieler eine Angriffskarte ausspielt, betrifft sie dich nicht. Zu Beginn deines n\u00e4chsten Zuges: + Diese Karte wird auf die Hand genommen (anstatt auf den Ablagestapel)."
     },
     "Japanese": {
@@ -8292,7 +8300,7 @@
       "name": "Pr\u00e9sage"
     },
     "German": {
-      "name": "Vorbotin (Note: explicitly feminine)",
+      "name": "Vorbotin",
       "text": "+1 Karte+1 AktionSieh deinen Ablagestapel durch. Du darfst eine Karte daraus auf deinen Nachziehstapel legen."
     },
     "Japanese": {
@@ -8736,10 +8744,10 @@
       "name": "Sankari"
     },
     "French": {
-      "name": "H\u00e9ro\u00efne (note: explicitly feminine)"
+      "name": "H\u00e9ro\u00efne"
     },
     "German": {
-      "name": "Held (note: explicitly masculine)",
+      "name": "Held",
       "text": "+Nimm dir eine Geldkarte.Ist diese Karte im Spiel, darfst du sie gegen einen Champion eintauschen, anstatt sie abzulegen.(Diese Karte geh\u00f6rt nicht zum Vorrat.)"
     },
     "Japanese": {
@@ -10695,7 +10703,7 @@
       "name": "R\u00f4deur"
     },
     "German": {
-      "name": "Herumtreiberin (Note: explicitly feminine)",
+      "name": "Herumtreiberin",
       "text": "+1 AktionW\u00e4hle eins:Entsorge eine Aktionskarte vom Vorratodernimm eine Aktionskarte vom M\u00fcll."
     },
     "Japanese": {
@@ -11281,7 +11289,7 @@
       "name": "Marchand"
     },
     "German": {
-      "name": "H\u00e4ndlerin (Note: explicitly feminine)",
+      "name": "H\u00e4ndlerin",
       "text": "+1 Karte+1 AktionSpielst du in diesem Zug das erste Mal ein Silber aus: +"
     },
     "Japanese": {
@@ -13408,6 +13416,10 @@
     "French": {
       "name": "Colporteur"
     },
+    "German": {
+      "name": "Hausierer",
+      "text": "+1 Karte+1 Aktion+Wenn du diese Karte in deiner Kaufphase kaufst, kostet sie pro Aktionskarte, die du im Spiel hast,  weniger, jedoch nicht weniger als ."
+    },
     "Italian": {
       "name": "Ambulante"
     },
@@ -13856,7 +13868,7 @@
       "name": "Braconnier"
     },
     "German": {
-      "name": "Wilddiebin (Note: explicitly feminine)",
+      "name": "Wilddiebin",
       "text": "+1 Karte+1 Aktion+Lege pro leerem Vorratsstapel eine Handkarte ab."
     },
     "Japanese": {
@@ -15872,11 +15884,11 @@
       "text": "Discard your hand. +7 Cards."
     },
     "French": {
-      "name": "\u00c9rudite (Note: explicitly feminine)",
+      "name": "\u00c9rudite",
       "text": "D\u00e9faussez votre main. +7 Cartes."
     },
     "German": {
-      "name": "Gelehrte (Note: explicitly feminine)",
+      "name": "Gelehrte",
       "text": "Lege deine Handkarten ab. +7 Karten"
     },
     "Japanese": {
@@ -16528,10 +16540,10 @@
       "text": "+2\u00a0Cards+1\u00a0Buy\nWhen you gain or trash this, +1\u00a0Coffers and +1\u00a0Villager."
     },
     "French": {
-      "name": "Marchande de soie (Note: explicitly feminine)"
+      "name": "Marchande de soie"
     },
     "German": {
-      "name": "Seidenh\u00e4ndlerin (Note: explicitly feminine)",
+      "name": "Seidenh\u00e4ndlerin",
       "text": "+2 Karten. +1 Kauf.\nWenn du diese Karte nimmst oder entsorgst: +1 Taler und +1 Dorfbewohner."
     },
     "Japanese": {
@@ -17717,10 +17729,10 @@
       "name": "Tarinankertoja"
     },
     "French": {
-      "name": "Conteuse (Note: explicitly feminine)"
+      "name": "Conteuse"
     },
     "German": {
-      "name": "Geschichtenerz\u00e4hler (Note: explicitly masculine)",
+      "name": "Geschichtenerz\u00e4hler",
       "text": "+1 Aktion+Spiele bis zu 3 Geldkarten aus deiner Hand aus. Zahle alle  und du erh\u00e4ltst:+1 Karte pro gezahltem .(Du hast jetzt )."
     },
     "Japanese": {
@@ -19256,10 +19268,10 @@
       "name": "Aarteenmets\u00e4st\u00e4j\u00e4"
     },
     "French": {
-      "name": "Chasseuse de Tr\u00e9sors (note: explicitly feminine)"
+      "name": "Chasseuse de Tr\u00e9sors"
     },
     "German": {
-      "name": "Schatzsucher (note: explicitly masculine)",
+      "name": "Schatzsucher",
       "text": "+1 Aktion+Nimm dir pro Karte, die dein rechter Mitspieler in seinem letzten Zug genommen hat, ein Silber.Ist diese Karte im Spiel, darfst du sie gegen einen Krieger eintauschen, anstatt sie abzulegen.(Diese Karte geh\u00f6rt nicht zum Vorrat.)"
     },
     "Japanese": {
@@ -19372,11 +19384,11 @@
       "text": "+Choose one: Trash a Treasure from your hand; or gain a Treasure from the trash to your hand; or take the Key."
     },
     "French": {
-      "name": "Tr\u00e9sori\u00e8re (Note: explicitly feminine)",
+      "name": "Tr\u00e9sori\u00e8re",
       "text": "+ Choissisez une option\u00a0: \u00e9cartez une carte Tr\u00e9sor de votre main\u00a0; ou recevez en main une carte Tr\u00e9sor du Rebut\u00a0; ou prenez la Cl\u00e9."
     },
     "German": {
-      "name": "Schatzmeisterin (Note: explicitly feminine)",
+      "name": "Schatzmeisterin",
       "text": "+. W\u00e4hle eins: Entsorge eine Geldkarte aus deiner Hand oder nimm eine Geldkarte aus dem M\u00fcll auf deine Hand oder erhalte den Schl\u00fcssel."
     },
     "Japanese": {
@@ -20135,7 +20147,7 @@
       "name": "Village Green",
       "text": "Either now or at the start of your next turn, +1 Card and +2 Actions.\nWhen you discard this other than during Clean-up, you may reveal it to play it."
     },
-    "Germand": {
+    "German": {
       "name": "Dorfanger",
       "text": "Entweder jetzt, oder zu Beginn deines n\u00e4chsten Zuges, +1\u00a0Karte und +2\u00a0Aktionen.Wenn du diese Karte au\u00dferhalb der Aufr\u00e4umphase ablegst, darfst du sie aufdecken, um sie zu spielen."
     },
@@ -20433,10 +20445,10 @@
       "name": "Soturi"
     },
     "French": {
-      "name": "Guerri\u00e8re (note: explicitly feminine)"
+      "name": "Guerri\u00e8re"
     },
     "German": {
-      "name": "Krieger (note: explicitly masculine)",
+      "name": "Krieger",
       "text": "+2 KartenF\u00fcr jeden Reisenden (inkl. diesem), den du imSpiel hast, m\u00fcssen alle Mitspieler die oberste Karteihres Nachziehstapels ablegen und sie entsorgen,wenn sie  oder  kostet.Ist diese Karte im Spiel, darfst du sie gegeneinen Helden eintauschen, anstatt sie abzulegen.(Diese Karte geh\u00f6rt nicht zum Vorrat.)"
     },
     "Japanese": {
@@ -20509,7 +20521,7 @@
       "name": "Way of the Butterfly",
       "text": "You may return this to its pile to gain a card costing exactly  more than it."
     },
-    "Germa<": {
+    "German": {
       "name": "Weg des Schmetterlings",
       "text": "Du darfst diese Karte auf ihren Stapel zur\u00fccklegen, um eineKarte zu nehmen, die genau  mehr kostet als sie."
     },
