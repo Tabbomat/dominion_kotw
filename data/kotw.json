@@ -7146,5 +7146,23 @@
       "sea hag",
       "warehouse"
     ]
+  },
+  "ow8ar8": {
+    "cards": [
+      "apothecary",
+      "artificer",
+      "bridge troll",
+      "catapult",
+      "count",
+      "forager",
+      "magpie",
+      "scrying pool",
+      "squire",
+      "university"
+    ],
+    "events": [
+      "save"
+    ],
+    "shelter": false
   }
 }
