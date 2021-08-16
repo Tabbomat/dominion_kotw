@@ -7164,5 +7164,40 @@
       "save"
     ],
     "shelter": false
+  },
+  "p16fbx": {
+    "cards": [
+      "border guard",
+      "caravan",
+      "cargo ship",
+      "displace",
+      "distant lands",
+      "embassy",
+      "highway",
+      "settlers",
+      "supplies",
+      "warehouse"
+    ],
+    "events": [
+      "travelling fair"
+    ]
+  },
+  "p5a169": {
+    "cards": [
+      "archive",
+      "bounty hunter",
+      "chapel",
+      "diplomat",
+      "grand market",
+      "inventor",
+      "mastermind",
+      "mill",
+      "peasant",
+      "sanctuary"
+    ],
+    "landmarks": [
+      "tomb",
+      "museum"
+    ]
   }
 }
