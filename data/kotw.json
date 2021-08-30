@@ -7199,5 +7199,42 @@
       "tomb",
       "museum"
     ]
+  },
+  "p9x4aw": {
+    "cards": [
+      "courtier",
+      "death cart",
+      "hermit",
+      "ironmonger",
+      "market",
+      "necromancer",
+      "nobles",
+      "sentry",
+      "vassal",
+      "werewolf"
+    ],
+    "shelter": true
+  },
+  "pe6q13": {
+    "cards": [
+      "bandit camp",
+      "engineer",
+      "horn of plenty",
+      "island",
+      "mining village",
+      "pixie",
+      "rats",
+      "raze",
+      "stockpile",
+      "tragic hero"
+    ],
+    "colony_platinum": true,
+    "landmarks": [
+      "wolf den"
+    ],
+    "shelter": false,
+    "ways": [
+      "way of the horse"
+    ]
   }
 }
