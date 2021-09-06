@@ -7236,5 +7236,25 @@
     "ways": [
       "way of the horse"
     ]
+  },
+  "pip7d7": {
+    "cards": [
+      "crossroads",
+      "cursed village",
+      "falconer",
+      "ill-gotten gains",
+      "livery",
+      "lookout",
+      "magpie",
+      "poacher",
+      "tragic hero",
+      "village green"
+    ],
+    "events": [
+      "gamble"
+    ],
+    "ways": [
+      "way of the owl"
+    ]
   }
 }
