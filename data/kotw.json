@@ -7256,5 +7256,25 @@
     "ways": [
       "way of the owl"
     ]
+  },
+  "pn49ed": {
+    "cards": [
+      "butcher",
+      "city quarter",
+      "embassy",
+      "faithful hound",
+      "fool's gold",
+      "merchant guild",
+      "night watchman",
+      "nomad camp",
+      "pooka",
+      "tunnel"
+    ],
+    "events": [
+      "ritual"
+    ],
+    "landmarks": [
+      "tower"
+    ]
   }
 }
