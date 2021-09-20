@@ -7276,5 +7276,22 @@
     "landmarks": [
       "tower"
     ]
+  },
+  "prjaz5": {
+    "cards": [
+      "hoard",
+      "island",
+      "king's court",
+      "lighthouse",
+      "mountebank",
+      "research",
+      "salvager",
+      "seer",
+      "silk merchant",
+      "smugglers"
+    ],
+    "projects": [
+      "guildhall"
+    ]
   }
 }
