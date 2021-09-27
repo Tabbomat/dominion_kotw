@@ -7293,5 +7293,24 @@
     "projects": [
       "guildhall"
     ]
+  },
+  "pw53xr": {
+    "cards": [
+      "cargo ship",
+      "hermit",
+      "jack of all trades",
+      "mystic",
+      "patron",
+      "rebuild",
+      "research",
+      "scheme",
+      "silk road",
+      "squire"
+    ],
+    "projects": [
+      "crop rotation",
+      "silos"
+    ],
+    "shelter": false
   }
 }
