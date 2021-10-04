@@ -7312,5 +7312,23 @@
       "silos"
     ],
     "shelter": false
+  },
+  "q0zyqw": {
+    "cards": [
+      "border village",
+      "displace",
+      "farmers' market",
+      "ghost ship",
+      "groom",
+      "menagerie",
+      "patrician",
+      "remake",
+      "treasure trove",
+      "wayfarer"
+    ],
+    "landmarks": [
+      "defiled shrine",
+      "mountain pass"
+    ]
   }
 }
