@@ -7330,5 +7330,23 @@
       "defiled shrine",
       "mountain pass"
     ]
+  },
+  "q5jhvz": {
+    "cards": [
+      "artisan",
+      "cemetery",
+      "ducat",
+      "necromancer",
+      "priest",
+      "scepter",
+      "sculptor",
+      "throne room",
+      "vampire",
+      "vassal"
+    ],
+    "projects": [
+      "citadel",
+      "exploration"
+    ]
   }
 }
