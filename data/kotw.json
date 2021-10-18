@@ -7348,5 +7348,21 @@
       "citadel",
       "exploration"
     ]
+  },
+  "qab4vv": {
+    "cards": [
+      "contraband",
+      "fortress",
+      "golem",
+      "hermit",
+      "hunting grounds",
+      "monument",
+      "quarry",
+      "sage",
+      "scrying pool",
+      "vineyard"
+    ],
+    "colony_platinum": false,
+    "shelter": true
   }
 }
