@@ -7364,5 +7364,24 @@
     ],
     "colony_platinum": false,
     "shelter": true
+  },
+  "qf4j70": {
+    "bane": "gear",
+    "cards": [
+      "acting troupe",
+      "bounty hunter",
+      "fool's gold",
+      "guardian",
+      "haggler",
+      "horn of plenty",
+      "junk dealer",
+      "masquerade",
+      "storyteller",
+      "young witch"
+    ],
+    "events": [
+      "windfall"
+    ],
+    "shelter": false
   }
 }
