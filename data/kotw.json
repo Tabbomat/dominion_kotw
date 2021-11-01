@@ -7383,5 +7383,24 @@
       "windfall"
     ],
     "shelter": false
+  },
+  "qk2sma": {
+    "cards": [
+      "courtier",
+      "embargo",
+      "expand",
+      "lackeys",
+      "lookout",
+      "lurker",
+      "minion",
+      "pawn",
+      "pirate ship",
+      "sculptor"
+    ],
+    "colony_platinum": false,
+    "projects": [
+      "capitalism",
+      "fleet"
+    ]
   }
 }
