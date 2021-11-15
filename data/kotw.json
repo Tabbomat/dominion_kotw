@@ -7417,5 +7417,23 @@
       "vagrant"
     ],
     "shelter": true
+  },
+  "qu3uw0": {
+    "cards": [
+      "butcher",
+      "hermit",
+      "inn",
+      "jack of all trades",
+      "peasant",
+      "procession",
+      "smugglers",
+      "stonemason",
+      "tactician",
+      "transmogrify"
+    ],
+    "events": [
+      "alms"
+    ],
+    "shelter": true
   }
 }
