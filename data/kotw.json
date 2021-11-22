@@ -7435,5 +7435,24 @@
       "alms"
     ],
     "shelter": true
+  },
+  "qzbvxv": {
+    "cards": [
+      "baron",
+      "black cat",
+      "cardinal",
+      "distant lands",
+      "fool's gold",
+      "ironmonger",
+      "mint",
+      "royal blacksmith",
+      "sacred grove",
+      "village green"
+    ],
+    "colony_platinum": false,
+    "events": [
+      "inheritance"
+    ],
+    "shelter": false
   }
 }
