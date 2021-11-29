@@ -7454,5 +7454,24 @@
       "inheritance"
     ],
     "shelter": false
+  },
+  "r4j4o4": {
+    "cards": [
+      "beggar",
+      "bridge troll",
+      "destrier",
+      "engineer",
+      "guide",
+      "hermit",
+      "hostelry",
+      "ill-gotten gains",
+      "jack of all trades",
+      "villa"
+    ],
+    "events": [
+      "donate",
+      "pursue"
+    ],
+    "shelter": false
   }
 }
