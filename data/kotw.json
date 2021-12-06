@@ -7473,5 +7473,26 @@
       "pursue"
     ],
     "shelter": false
+  },
+  "r9u74k": {
+    "cards": [
+      "castles",
+      "changeling",
+      "enchantress",
+      "exorcist",
+      "haggler",
+      "king's court",
+      "spice merchant",
+      "tracker",
+      "vault",
+      "watchtower"
+    ],
+    "colony_platinum": true,
+    "events": [
+      "conquest"
+    ],
+    "landmarks": [
+      "keep"
+    ]
   }
 }
