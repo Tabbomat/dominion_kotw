@@ -7494,5 +7494,26 @@
     "landmarks": [
       "keep"
     ]
+  },
+  "rf58en": {
+    "cards": [
+      "animal fair",
+      "black cat",
+      "cardinal",
+      "cartographer",
+      "cellar",
+      "gardens",
+      "grand market",
+      "patrol",
+      "trader",
+      "worker's village"
+    ],
+    "colony_platinum": false,
+    "events": [
+      "invest"
+    ],
+    "ways": [
+      "way of the goat"
+    ]
   }
 }
