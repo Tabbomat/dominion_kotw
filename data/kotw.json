@@ -7515,5 +7515,23 @@
     "ways": [
       "way of the goat"
     ]
+  },
+  "rkd9b9": {
+    "cards": [
+      "baker",
+      "cobbler",
+      "festival",
+      "ironmonger",
+      "messenger",
+      "sleigh",
+      "snowy village",
+      "tracker",
+      "treasure map",
+      "warehouse"
+    ],
+    "events": [
+      "bonfire"
+    ],
+    "shelter": false
   }
 }
