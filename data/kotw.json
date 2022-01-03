@@ -7533,5 +7533,45 @@
       "bonfire"
     ],
     "shelter": false
+  },
+  "rpbkl5": {
+    "cards": [
+      "baker",
+      "blessed village",
+      "butcher",
+      "fishing village",
+      "forager",
+      "grand market",
+      "horn of plenty",
+      "lackeys",
+      "spice merchant",
+      "stockpile"
+    ],
+    "colony_platinum": false,
+    "events": [
+      "demand"
+    ],
+    "projects": [
+      "sinister plot"
+    ]
+  },
+  "ruox3u": {
+    "cards": [
+      "death cart",
+      "exorcist",
+      "haggler",
+      "ironmonger",
+      "island",
+      "night watchman",
+      "poor house",
+      "scepter",
+      "tactician",
+      "urchin"
+    ],
+    "projects": [
+      "piazza",
+      "silos"
+    ],
+    "shelter": false
   }
 }
