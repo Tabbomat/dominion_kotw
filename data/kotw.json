@@ -7573,5 +7573,25 @@
       "silos"
     ],
     "shelter": false
+  },
+  "s06n50": {
+    "cards": [
+      "bishop",
+      "catacombs",
+      "church",
+      "cultist",
+      "exorcist",
+      "monastery",
+      "priest",
+      "relic",
+      "sanctuary",
+      "worker's village"
+    ],
+    "colony_platinum": false,
+    "events": [
+      "mission",
+      "pilgrimage"
+    ],
+    "shelter": true
   }
 }
