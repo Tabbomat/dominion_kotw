@@ -7593,5 +7593,26 @@
       "pilgrimage"
     ],
     "shelter": true
+  },
+  "s5qamq": {
+    "cards": [
+      "artificer",
+      "cargo ship",
+      "experiment",
+      "flag bearer",
+      "port",
+      "raze",
+      "replace",
+      "sheepdog",
+      "spices",
+      "torturer"
+    ],
+    "events": [],
+    "projects": [
+      "exploration"
+    ],
+    "ways": [
+      "way of the butterfly"
+    ]
   }
 }
