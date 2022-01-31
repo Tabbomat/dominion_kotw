@@ -7636,5 +7636,24 @@
     "ways": [
       "way of the horse"
     ]
+  },
+  "sgpu2q": {
+    "cards": [
+      "conspirator",
+      "encampment",
+      "gladiator",
+      "hunting party",
+      "outpost",
+      "overlord",
+      "tournament",
+      "villa",
+      "wandering minstrel",
+      "wharf"
+    ],
+    "events": [
+      "pathfinding"
+    ],
+    "shelter": false,
+    "ways": []
   }
 }
