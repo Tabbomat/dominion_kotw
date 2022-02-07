@@ -7655,5 +7655,25 @@
     ],
     "shelter": false,
     "ways": []
+  },
+  "smc54p": {
+    "cards": [
+      "animal fair",
+      "bridge",
+      "courtier",
+      "doctor",
+      "duplicate",
+      "encampment",
+      "merchant guild",
+      "miser",
+      "royal blacksmith",
+      "sheepdog"
+    ],
+    "events": [
+      "toil"
+    ],
+    "ways": [
+      "way of the owl"
+    ]
   }
 }
