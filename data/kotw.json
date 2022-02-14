@@ -7675,5 +7675,26 @@
     "ways": [
       "way of the owl"
     ]
+  },
+  "ss08ze": {
+    "cards": [
+      "altar",
+      "bard",
+      "blessed village",
+      "chapel",
+      "charm",
+      "courtyard",
+      "gardens",
+      "groom",
+      "priest",
+      "wishing well"
+    ],
+    "events": [
+      "wedding"
+    ],
+    "projects": [
+      "star chart"
+    ],
+    "shelter": false
   }
 }
