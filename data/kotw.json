@@ -7696,5 +7696,24 @@
       "star chart"
     ],
     "shelter": false
+  },
+  "sxhic6": {
+    "cards": [
+      "castles",
+      "catapult",
+      "contraband",
+      "expand",
+      "goatherd",
+      "hostelry",
+      "kiln",
+      "settlers",
+      "sheepdog",
+      "watchtower"
+    ],
+    "colony_platinum": false,
+    "events": [
+      "banquet",
+      "bargain"
+    ]
   }
 }
