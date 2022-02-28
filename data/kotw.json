@@ -7715,5 +7715,24 @@
       "banquet",
       "bargain"
     ]
+  },
+  "t34cdl": {
+    "cards": [
+      "artisan",
+      "experiment",
+      "loan",
+      "monastery",
+      "mountebank",
+      "mystic",
+      "patron",
+      "throne room",
+      "tragic hero",
+      "wandering minstrel"
+    ],
+    "colony_platinum": true,
+    "projects": [
+      "city gate",
+      "fleet"
+    ]
   }
 }
