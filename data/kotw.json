@@ -7734,5 +7734,24 @@
       "city gate",
       "fleet"
     ]
+  },
+  "t8dg9k": {
+    "cards": [
+      "bandit camp",
+      "coven",
+      "destrier",
+      "enchantress",
+      "forager",
+      "mastermind",
+      "royal blacksmith",
+      "scrap",
+      "squire",
+      "temple"
+    ],
+    "events": [
+      "conquest",
+      "delve"
+    ],
+    "shelter": false
   }
 }
