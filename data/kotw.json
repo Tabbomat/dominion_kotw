@@ -7753,5 +7753,26 @@
       "delve"
     ],
     "shelter": false
+  },
+  "tdm345": {
+    "cards": [
+      "animal fair",
+      "cardinal",
+      "cultist",
+      "farming village",
+      "flag bearer",
+      "hunting lodge",
+      "menagerie",
+      "patron",
+      "scrap",
+      "storeroom"
+    ],
+    "events": [
+      "invest"
+    ],
+    "shelter": false,
+    "ways": [
+      "way of the horse"
+    ]
   }
 }
